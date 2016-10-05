@@ -35,7 +35,14 @@ represent it in the diagram the way we do?
 The combining of the two instances of the files based on the two commits
 and the last joint commig.  It helps to see where we will end up.
 
-7) 
+7) What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
+
+Oh man, manually merging two files always would be a time consuming task
+and human error is likely to be introduced.  But having a computer do it
+that may not know nuances is also troublsome, that's why git merge is 
+conservative and has us figure it out.
+
 
 
 
