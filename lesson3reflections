@@ -4,5 +4,15 @@ If you've got different people who might be in different locales or in the offic
 times then keeping the files on a server for them all to access the latest versions 
 is best.  Also if you want to share your work with others.
 
-2) 
+2) Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+If the computer pulled the changes manually, you might have a conflict with the
+way you've been working on a file with the way that someone else has changed the file.
+Also, you might have issues committing anew if the file your working on is no
+longer the tip of the branch.
+
+3) 
+
+
 
