@@ -12,5 +12,30 @@ The staging area is like purgatory where the files aren't committed yet
 but will be and the repository is where they go.  It makes it much more succinct
 in that you can only commit the files that need it when they need it.
 
-3) 
+3) How can you use the staging area to make sure you have one 
+commit per logical change?
+
+You can place the files there that have changes made and then used
+git diff to make sure those changes are what you want them to be.
+
+4)  What are some situations when branches would be helpful in 
+keeping your history organized? How would branches help?
+
+Branches are great for game mod modes or experimental features
+that you want to do or try but not affect the main program.
+
+5)  How do the diagrams help you visualize the branch structure?
+
+The diagrams are a good way to keep them in sight.  It's pretty easy
+when there's only 1, 2, or 3 branches, say, but it could get messy fast.
+
+6) What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+
+The combining of the two instances of the files based on the two commits
+and the last joint commig.  It helps to see where we will end up.
+
+7) 
+
+
 
