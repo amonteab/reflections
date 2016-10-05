@@ -1,0 +1,16 @@
+1) What happens when you initialize a repository? Why do 
+you need to do it?
+
+Git creates a 'hidden' directory that will contain all the committed
+versions of the files that are being tracked.  Without that, there
+is no version control.
+
+2) How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+
+The staging area is like purgatory where the files aren't committed yet
+but will be and the repository is where they go.  It makes it much more succinct
+in that you can only commit the files that need it when they need it.
+
+3) 
+
