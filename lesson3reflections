@@ -27,9 +27,14 @@ changes that you don't want to affect the master files.
 in case you need to operate offline or to have a state of where other collaborators are
 before you begin your local work.
 
-5)  
+5) How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder? 
 
+You wouldn't have to have knowledge about the site or it's form in order to do it
+manually but at the same time the benefits of having the site check and track 
+things for you is far better.
 
+6) 
 
 
 
