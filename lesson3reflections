@@ -12,7 +12,18 @@ way you've been working on a file with the way that someone else has changed the
 Also, you might have issues committing anew if the file your working on is no
 longer the tip of the branch.
 
-3) 
+3) Describe the differences between forks, clones, and branches. When would 
+you use one instead of another?
+
+Forks are creating a copy of another branch for yourself, clones recreate a branch either
+on your github or on your local computer, and branches are for your repositories to
+have different features that may not want to affect the master files.  Forks are
+for when you don't have access to edit another persons commits but want to change stuff
+in them, clones are for accessing in your local computer and branches are for making
+changes that you don't want to affect the master files.
+
+4) 
+
 
 
 
