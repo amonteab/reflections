@@ -22,7 +22,16 @@ for when you don't have access to edit another persons commits but want to chang
 in them, clones are for accessing in your local computer and branches are for making
 changes that you don't want to affect the master files.
 
-4) 
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+in case you need to operate offline or to have a state of where other collaborators are
+before you begin your local work.
+
+5)  
+
+
+
+
 
 
 
